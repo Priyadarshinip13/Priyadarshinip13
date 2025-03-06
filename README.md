@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Priyadarshini P
 - 👀 I’m interested in problem solving, web development and Artificial Intelligence.
-- 🌱 I’m currently learning 3rd year under graduate in AI&ML branch
+- 🌱 I’m currently pursuing 3rd year under graduate in AI&ML branch
 - 📫 How to reach me ...ppriyadarshini2003@gmail.com
 
 <!---
