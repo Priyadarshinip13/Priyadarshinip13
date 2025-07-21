@@ -1,6 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Priyadarshini</h1>
-<p align="center">Aspiring AIML Engineer | ML Enthusiast | Django Developer </p>
+## Hi there 👋, I'm Priyadarshini
 
-<p align="center">
-  <img src="file:///C:/Users/pc-1/Downloads/Bored%20Let%20Down%20GIF%20by%20Pudgy%20Penguins.gif" />
-</p>
+Aspiring AIML Engineer | ML Enthusiast | Django Developer
+
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
